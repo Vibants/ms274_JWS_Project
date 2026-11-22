@@ -281,4 +281,4 @@ Comparing residence of JWS with Chl-a.
 
 ### Figure 4. JWS occupancy with SST and SSTA
 
-Analysis of the relationships between JWS residence and SST/SSTA
+Analysis of the relationships between JWS residence and SST/SSTA.
