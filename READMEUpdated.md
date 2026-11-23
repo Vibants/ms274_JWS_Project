@@ -280,6 +280,6 @@ Time series of Chl-a at study site.
 
 Analysis of the relationships between JWS residence and SST/SSTA.
 
-###Figure 5. Pairing of JWS residency vs. environmental conditions
+### Figure 5. Pairing of JWS residency vs. environmental conditions
 
 Corresponding JWS refuging behavior to Chl-a, SST, and SSTA.
