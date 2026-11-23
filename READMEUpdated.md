@@ -264,20 +264,22 @@ Spurgeon, Emily, Marten L. Thompson, Mitchell D. Alexander, James M. Anderson, P
 
 ## Figures
 
-### Figure 1. Study Area and Spatial Environmental Conditions
+### Figure 1. Study area
 
-Draft map of Monterey Bay showing the geographic study area and
-satellite-derived environmental conditions.
+Draft map of Monterey Bay showing the geographic study area.
 
-### Figure 2. Temporal Environmental Variability
+### Figure 2. Temporal environmental variability
 
-Time series of mean sea surface temperature anomalies and
-chlorophyll-a concentrations within the nearshore study area.
+Time series of chlorophyll-a concentrations within the nearshore study area.
 
-### Figure 3. JWS occupancy with Chl-a
+### Figure 3. Animation of Chl-a overtime
 
-Comparing residence of JWS with Chl-a.
+Time series of Chl-a at study site.
 
-### Figure 4. JWS occupancy with SST and SSTA
+### Figure 4. JWS occupancy with SST and SSTA (On Final draft)
 
 Analysis of the relationships between JWS residence and SST/SSTA.
+
+###Figure 5. Pairing of JWS residency vs. environmental conditions
+
+Corresponding JWS refuging behavior to Chl-a, SST, and SSTA.
