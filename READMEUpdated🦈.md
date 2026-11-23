@@ -20,7 +20,6 @@ for Juvenile White Shark (JWS) Habitat Availability in Monterey Bay, California
 
 ## Abstract
 
-*Target: 250 words*
 
 - Background and ecological significance.
 - Research objectives.
@@ -34,7 +33,6 @@ for Juvenile White Shark (JWS) Habitat Availability in Monterey Bay, California
 
 ## 1. Introduction
 
-*Target: 1,000 words*
 
 ### 1.1 Climate-Driven Changes in Marine Ecosystems
 
@@ -78,7 +76,6 @@ juvenile white shark fine-scale movement.
 
 ## 2. Materials and Methods
 
-*Target: 1,500 words*
 
 ### 2.1 Study Area
 
@@ -153,8 +150,6 @@ juvenile white shark fine-scale movement.
 
 ## 3. Results
 
-*Target: 600 words*
-
 ### 3.1 Spatial Distribution of Thermal Conditions
 
 - Spatial variability in sea surface temperature.
@@ -184,7 +179,6 @@ juvenile white shark fine-scale movement.
 
 ## 4. Discussion
 
-*Target: 900 words*
 
 ### 4.1 Environmental Drivers of Nearshore Variability
 
@@ -222,8 +216,6 @@ observations alone.
 ---
 
 ## 5. Conclusion
-
-*Target: 250 words*
 
 - Summarize the principal environmental patterns.
 - Discuss implications for potential JWS habitat.
