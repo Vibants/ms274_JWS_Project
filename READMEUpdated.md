@@ -25,7 +25,7 @@ for Juvenile White Shark (JWS) Habitat Availability in Monterey Bay, California
 - Background and ecological significance.
 - Research objectives.
 - Remote sensing products and analytical methods.
-- Principal findings.
+- Interpretation of analysis.
 - Ecological implications for juvenile white shark habitat availability.
 
 **Keywords:** Juvenile white sharks; remote sensing; sea surface temperature; chlorophyll-a; thermal habitat; Monterey Bay; acoustic telemetry .
@@ -178,8 +178,7 @@ juvenile white shark fine-scale movement.
 - Temporal correspondence between SST and chlorophyll-a.
 - Potential seasonal relationships with coastal upwelling.
 
-*Results will be updated following completion of the environmental
-analyses.*
+*Results will be updated after completion of analyses.*
 
 ---
 
@@ -208,7 +207,7 @@ analyses.*
 ### 4.4 Limitations of Remote Sensing
 
 - Satellite spatial and temporal resolution.
-- Cloud contamination and missing observations.
+- Cloud blockage and missing observations.
 - Surface versus subsurface thermal conditions.
 - Limitations of inferring animal habitat selection from environmental
 observations alone.
